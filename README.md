@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Poderia estar criando conteúdo de programação mas ainda sou um iniciante, mas em breve teremos algumas coisas disponíveis nos links abaixo 😊
  
 <div> 
   <a href="nenhum" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
