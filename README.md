@@ -1,6 +1,12 @@
 # Welcome to Profile of Fhelipe Apolinario 😁
 
 <div>
+  <a href="https://github.com/Isaac-Moreira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fheapolinario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fheapolinario&layout=compact&langs_count=6&theme=dark"/>
+</div>
+  
+<div>
   <a href="https://github.com/fheapolinario">
 </div>
 <div style="display: inline_block"><br>
@@ -10,6 +16,8 @@
 </div>
  
  <br>
+  
+  Contact and Social Medial 👇
  
 <div> 
   <a href = "mailto:fhelipeapolinario@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
